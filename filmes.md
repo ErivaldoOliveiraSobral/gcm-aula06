@@ -1,3 +1,3 @@
-# O Exterminador do Futuro
-# O Dia Depois de Amanhã
-# Premonição
+# Sobrenatural
+# Punho de Ferro
+# Vikings
