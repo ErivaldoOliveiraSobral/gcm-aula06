@@ -10,5 +10,5 @@ Ferramenta de Controle de Versão:
 * SVN
 * Mercurial
 * Clear Case
-* GitHub
+* Git
 * Visual Studio Team Services
